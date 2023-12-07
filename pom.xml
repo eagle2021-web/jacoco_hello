@@ -17,6 +17,7 @@
         <module>gav_parent</module>
         <module>security</module>
         <module>framework</module>
+        <module>report</module>
     </modules>
 
     <properties>

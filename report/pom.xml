@@ -9,7 +9,7 @@
         <version>1.1-SNAPSHOT</version>
         <relativePath>../gav_parent</relativePath> <!-- lookup parent from repository -->
     </parent>
-    <artifactId>framework</artifactId>
+    <artifactId>report</artifactId>
     <version>1.2.3</version>
     <properties>
         <maven.compiler.source>8</maven.compiler.source>
