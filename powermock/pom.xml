@@ -7,6 +7,7 @@
         <groupId>com.eagle</groupId>
         <artifactId>gav_parent</artifactId>
         <version>1.1-SNAPSHOT</version>
+        <relativePath>../gav_parent</relativePath>
     </parent>
 
     <groupId>org.example</groupId>

@@ -4,6 +4,7 @@ package org.example;
  * @author chenw
  * @date 2023/12/16
  */
+@SuppressWarnings("unused")
 public class Main {
 //    public static void main(String[] args) {
 //        System.out.println("Hello world!");
